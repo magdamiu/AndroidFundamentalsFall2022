@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id editTextEmailAddress
+id editTextPassword
+id textViewDisplayAccount
+layout activity_main
+layout login
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string email_and_password
+string hint_email
+string hint_password
+string login
+string textview2
+string textview3
+style Theme.AndroidFall2022
+xml backup_rules
+xml data_extraction_rules
