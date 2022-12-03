@@ -7,7 +7,9 @@ color purple_700
 color teal_200
 color teal_700
 color white
+dimen big_space
 dimen small_space
+dimen very_big_space
 drawable android_landscape
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -16,8 +18,10 @@ id editTextEmailAddress
 id editTextPassword
 id progressBarAboutAndroid
 id ratingBarAndroid
+id spinnerCitiesList
 id switchBackUp
 id textViewDisplayAccount
+id webViewChristmas
 layout activity_about_android
 layout activity_main
 layout login
@@ -36,6 +40,7 @@ string hint_email
 string hint_password
 string login
 string no
+string select_a_city
 string text_1
 string text_2
 string text_3

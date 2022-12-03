@@ -1,9 +1,5 @@
 [
     {
-        "merged": "com.magdamiu.androidfall2022.app-merged_res-29:/layout_login.xml.flat",
-        "source": "com.magdamiu.androidfall2022.app-main-31:/layout/login.xml"
-    },
-    {
         "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
     },

@@ -18,4 +18,5 @@
     <string name="text_1">Text 1</string>
     <string name="text_2">Text 2</string>
     <string name="text_3">Text 3</string>
+    <string name="select_a_city">Select a city</string>
 </resources>
