@@ -23,17 +23,21 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login);
+        setupViews();
+        displayAboutAndroidOnClick();
+    }
 
+    private void setupViews() {
         editTextEmail = findViewById(R.id.editTextEmailAddress);
         editTextPassword = findViewById(R.id.editTextPassword);
         textViewDisplayAccount = findViewById(R.id.textViewDisplayAccount);
         buttonDisplayAboutAndroid = findViewById(R.id.buttonAboutAndroid);
-        buttonDisplayAboutAndroid.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent moveFromMainToAboutAndroidActivity = new Intent(MainActivity.this, AboutAndroid.class);
-                startActivity(moveFromMainToAboutAndroidActivity);
-            }
+    }
+
+    private void displayAboutAndroidOnClick() {
+        buttonDisplayAboutAndroid.setOnClickListener(view -> {
+            Intent moveFromMainToAboutAndroidActivity = new Intent(MainActivity.this, AboutAndroid.class);
+            startActivity(moveFromMainToAboutAndroidActivity);
         });
     }
 

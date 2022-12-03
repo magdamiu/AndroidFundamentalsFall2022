@@ -11,4 +11,11 @@
     <string name="add_password">Please add your password</string>
     <string name="about_android_views">About Android Views</string>
     <string name="about_android">About Android</string>
+    <string name="accept_t_and_c">Accept T and C</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="enable_back_up">Enable back-up</string>
+    <string name="text_1">Text 1</string>
+    <string name="text_2">Text 2</string>
+    <string name="text_3">Text 3</string>
 </resources>

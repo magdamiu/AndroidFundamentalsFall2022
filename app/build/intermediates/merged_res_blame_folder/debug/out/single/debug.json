@@ -4,6 +4,10 @@
         "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/drawable_android_landscape.jpeg.flat",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/drawable/android_landscape.jpeg"
+    },
+    {
         "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
     },

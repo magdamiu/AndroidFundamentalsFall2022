@@ -2542,6 +2542,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable android_landscape
 drawable avd_hide_password
 drawable avd_show_password
 drawable btn_checkbox_checked_mtrl
@@ -2976,9 +2977,11 @@ id pin
 id position
 id postLayout
 id pressed
+id progressBarAboutAndroid
 id progress_circular
 id progress_horizontal
 id radio
+id ratingBarAndroid
 id ratio
 id rectangles
 id reverseSawtooth
@@ -3049,6 +3052,7 @@ id stretch
 id submenuarrow
 id submit_area
 id supportScrollUp
+id switchBackUp
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -3350,6 +3354,7 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string about_android
 string about_android_views
+string accept_t_and_c
 string add_email
 string add_password
 string androidx_startup
@@ -3367,6 +3372,7 @@ string character_counter_pattern
 string clear_text_end_icon_content_description
 string email_and_password
 string email_not_valid
+string enable_back_up
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
@@ -3465,6 +3471,7 @@ string mtrl_switch_track_decoration_path
 string mtrl_switch_track_path
 string mtrl_timepicker_cancel
 string mtrl_timepicker_confirm
+string no
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -3474,6 +3481,7 @@ string search_menu_title
 string status_bar_notification_info_overflow
 string textview2
 string textview3
+string yes
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
