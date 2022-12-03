@@ -7,8 +7,13 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <string name="about_android">About Android</string>
+    <string name="about_android_views">About Android Views</string>
+    <string name="add_email">Please add your email address</string>
+    <string name="add_password">Please add your password</string>
     <string name="app_name">AndroidFall2022</string>
     <string name="email_and_password">Email and password</string>
+    <string name="email_not_valid">Email address is not valid</string>
     <string name="hint_email">Please add your email address</string>
     <string name="hint_password">Please add your password</string>
     <string name="login">Login</string>

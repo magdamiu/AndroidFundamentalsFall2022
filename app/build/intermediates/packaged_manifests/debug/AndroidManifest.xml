@@ -21,6 +21,13 @@
         android:testOnly="true"
         android:theme="@style/Theme.AndroidFall2022" >
         <activity
+            android:name="com.magdamiu.androidfall2022.AboutAndroid"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="com.magdamiu.androidfall2022.MainActivity"
             android:exported="true" >
             <intent-filter>

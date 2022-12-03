@@ -2737,6 +2737,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id buttonAboutAndroid
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3240,6 +3241,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_about_android
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3346,6 +3348,10 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string about_android
+string about_android_views
+string add_email
+string add_password
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
@@ -3360,6 +3366,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string clear_text_end_icon_content_description
 string email_and_password
+string email_not_valid
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description

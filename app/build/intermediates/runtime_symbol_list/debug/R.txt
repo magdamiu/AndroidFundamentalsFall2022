@@ -2736,6 +2736,7 @@ int id bounce 0x7f08005e
 int id bounceBoth 0x7f08005f
 int id bounceEnd 0x7f080060
 int id bounceStart 0x7f080061
+int id buttonAboutAndroid 0x7f0801df
 int id buttonPanel 0x7f080062
 int id cache_measures 0x7f080063
 int id callMeasure 0x7f080064
@@ -3239,6 +3240,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_about_android 0x7f0b0068
 int layout activity_main 0x7f0b001c
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e
@@ -3345,6 +3347,10 @@ int string abc_searchview_description_voice 0x7f0f0017
 int string abc_shareactionprovider_share_with 0x7f0f0018
 int string abc_shareactionprovider_share_with_application 0x7f0f0019
 int string abc_toolbar_collapse_description 0x7f0f001a
+int string about_android 0x7f0f0098
+int string about_android_views 0x7f0f0094
+int string add_email 0x7f0f0095
+int string add_password 0x7f0f0096
 int string androidx_startup 0x7f0f001b
 int string app_name 0x7f0f001c
 int string appbar_scrolling_view_behavior 0x7f0f001d
@@ -3359,6 +3365,7 @@ int string character_counter_overflowed_content_description 0x7f0f0025
 int string character_counter_pattern 0x7f0f0026
 int string clear_text_end_icon_content_description 0x7f0f0027
 int string email_and_password 0x7f0f0028
+int string email_not_valid 0x7f0f0097
 int string error_a11y_label 0x7f0f0029
 int string error_icon_content_description 0x7f0f002a
 int string exposed_dropdown_menu_content_description 0x7f0f002b
