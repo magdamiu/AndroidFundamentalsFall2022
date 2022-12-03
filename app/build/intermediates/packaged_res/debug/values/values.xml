@@ -7,6 +7,7 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <dimen name="small_space">8dp</dimen>
     <string name="about_android">About Android</string>
     <string name="about_android_views">About Android Views</string>
     <string name="accept_t_and_c">Accept T and C</string>
@@ -20,6 +21,9 @@
     <string name="hint_password">Please add your password</string>
     <string name="login">Login</string>
     <string name="no">No</string>
+    <string name="text_1">Text 1</string>
+    <string name="text_2">Text 2</string>
+    <string name="text_3">Text 3</string>
     <string name="textview2">TextView2</string>
     <string name="textview3">TextView3</string>
     <string name="yes">Yes</string>

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="8dp">
+    android:padding="@dimen/small_space">
 
     <EditText
         android:id="@+id/editTextEmailAddress"
@@ -31,9 +31,9 @@
         android:id="@+id/textViewDisplayAccount"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="8dp"
+        android:layout_margin="@dimen/small_space"
         android:background="@color/teal_200"
-        android:padding="8dp"
+        android:padding="@dimen/small_space"
         android:text="@string/email_and_password"
         android:textColor="@color/purple_700"
         android:textSize="23sp" />
@@ -41,7 +41,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
+        android:layout_marginBottom="@dimen/small_space"
         android:background="@color/purple_200"
         android:text="@string/textview2" />
 
