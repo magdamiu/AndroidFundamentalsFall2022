@@ -30,5 +30,4 @@ public class MovieViewHolder extends RecyclerView.ViewHolder {
     public TextView getTextViewCategory() {
         return textViewCategory;
     }
-
 }

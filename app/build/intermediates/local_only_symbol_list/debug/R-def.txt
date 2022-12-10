@@ -16,8 +16,10 @@ drawable ic_launcher_foreground
 drawable movie
 id button3
 id buttonAboutAndroid
+id buttonDial
 id buttonOpenActivity
 id buttonOpenSecondActivity
+id buttonOpenWebsite
 id editTextEmail
 id editTextEmailAddress
 id editTextPassword
@@ -49,6 +51,7 @@ string accept_t_and_c
 string add_email
 string add_password
 string app_name
+string dial
 string email_and_password
 string email_not_valid
 string enable_back_up
@@ -66,6 +69,7 @@ string textview2
 string textview3
 string this_is_the_first_activity
 string this_is_the_second_activity
+string website
 string yes
 style Theme.AndroidFall2022
 xml backup_rules

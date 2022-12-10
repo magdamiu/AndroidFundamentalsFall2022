@@ -2744,8 +2744,10 @@ id bounceEnd
 id bounceStart
 id button3
 id buttonAboutAndroid
+id buttonDial
 id buttonOpenActivity
 id buttonOpenSecondActivity
+id buttonOpenWebsite
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3391,6 +3393,7 @@ string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string clear_text_end_icon_content_description
+string dial
 string email_and_password
 string email_not_valid
 string enable_back_up
@@ -3510,6 +3513,7 @@ string textview2
 string textview3
 string this_is_the_first_activity
 string this_is_the_second_activity
+string website
 string yes
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

@@ -2,7 +2,9 @@ package com.magdamiu.androidfall2022.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -14,7 +16,7 @@ public class FirstActivity extends AppCompatActivity {
 
     private final String TAG = "FirstActivity";
 
-    private Button buttonOpenSecondActivity;
+    private Button buttonOpenSecondActivity, buttonDial, buttonOpenWebsite;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,6 +26,37 @@ public class FirstActivity extends AppCompatActivity {
         Log.e(TAG, "onCreate");
 
         setupButtonOpenSecondActivity();
+        setupButtonDial();
+        setupButtonWebsite();
+    }
+
+    private void setupButtonWebsite() {
+        buttonOpenWebsite = findViewById(R.id.buttonOpenWebsite);
+        buttonOpenWebsite.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent openWebsite = new Intent(Intent.ACTION_VIEW);
+                // sample with website url
+                // openWebsite.setData(Uri.parse("https://developer.android.com/"));
+
+                // sample with location
+                openWebsite.setData(Uri.parse("geo:0,0?q=Herăstrău+Lake"));
+                startActivity(openWebsite);
+            }
+        });
+    }
+
+    private void setupButtonDial() {
+        buttonDial = findViewById(R.id.buttonDial);
+        buttonDial.setOnClickListener(view -> {
+            try {
+                Intent dialActivity = new Intent(Intent.ACTION_DIAL);
+                dialActivity.setData(Uri.parse("tel:0777777777"));
+                startActivity(dialActivity);
+            } catch (Exception e) {
+                // handle the case when this activity can not be started
+            }
+        });
     }
 
     private void setupButtonOpenSecondActivity() {
