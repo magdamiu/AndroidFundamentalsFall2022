@@ -1,4 +1,4 @@
-#Sat Dec 03 13:24:14 EET 2022
+#Sat Dec 10 10:06:35 EET 2022
 base.2=/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
 path.2=3/classes.dex
 base.1=/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex

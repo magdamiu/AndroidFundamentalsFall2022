@@ -46,17 +46,31 @@ public class MainActivity extends AppCompatActivity {
         String password = editTextPassword.getText().toString();
         if (isValidForm(email, password)) {
             if (Patterns.EMAIL_ADDRESS.matcher(email).matches()) {
-                textViewDisplayAccount.setText(new StringBuilder().append(email).append(", ").append(password).toString());
+                moveToMoviesActivity(email, password);
             } else {
-                editTextEmail.setError("Please add a valid email address");
-                Toast.makeText(MainActivity.this, R.string.email_not_valid, Toast.LENGTH_LONG).show();
+                invalidEmail();
             }
         } else {
-            //TODO add validation per field
-            editTextEmail.setError(getString(R.string.add_email));
-            editTextPassword.setError(getString(R.string.add_password));
-            Log.e(TAG, "email and password empty");
+            invalidForm();
         }
+    }
+
+    private void moveToMoviesActivity(String email, String password) {
+        textViewDisplayAccount.setText(new StringBuilder().append(email).append(", ").append(password).toString());
+        Intent displayMoviesActivity = new Intent(MainActivity.this, MoviesActivity.class);
+        startActivity(displayMoviesActivity);
+    }
+
+    private void invalidEmail() {
+        editTextEmail.setError("Please add a valid email address");
+        Toast.makeText(MainActivity.this, R.string.email_not_valid, Toast.LENGTH_LONG).show();
+    }
+
+    private void invalidForm() {
+        //TODO add validation per field
+        editTextEmail.setError(getString(R.string.add_email));
+        editTextPassword.setError(getString(R.string.add_password));
+        Log.e(TAG, "email and password empty");
     }
 
     private boolean isValidForm(String email, String password) {

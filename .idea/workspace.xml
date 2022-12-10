@@ -3,10 +3,10 @@
   <component name="AndroidLayouts">
     <shared>
       <config>
+        <device id="5.4in FWVGA" />
         <device id="6.7in Foldable" />
         <device id="2.7in QVGA" />
         <device id="7.4in Rollable" />
-        <device id="5.4in FWVGA" />
         <device id="7.6in Foldable" />
         <device id="_device_class_tablet" />
         <option name="nonWearDeviceLastStateName" value="Portrait" />
@@ -21,22 +21,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a4963b5-d5ac-4d5e-9083-26c8b81f61ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/magdamiu/androidfall2022/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/magdamiu/androidfall2022/MovieAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/magdamiu/androidfall2022/MovieViewHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/magdamiu/androidfall2022/MoviesActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/movie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_movies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/movie_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/magdamiu/androidfall2022/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/magdamiu/androidfall2022/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/magdamiu/androidfall2022/MovieAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/magdamiu/androidfall2022/MovieAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/magdamiu/androidfall2022/MoviesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/magdamiu/androidfall2022/MoviesActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/mmiu/.android/avd/Pixel_6_API_31.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/mmiu/.android/avd/3.4_WQVGA_API_31.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -65,6 +61,7 @@
         <option value="valueResourceFile" />
         <option value="layoutResourceFile_vertical" />
         <option value="Class" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
