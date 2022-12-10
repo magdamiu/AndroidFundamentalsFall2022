@@ -20,8 +20,10 @@ id buttonDial
 id buttonOpenActivity
 id buttonOpenSecondActivity
 id buttonOpenWebsite
+id buttonSendMessage
 id editTextEmail
 id editTextEmailAddress
+id editTextMessage
 id editTextPassword
 id imageViewPoster
 id progressBarAboutAndroid
@@ -34,6 +36,7 @@ id textView2
 id textViewDisplayAccount
 id textViewMovieCategory
 id textViewMovieTitle
+id textViewReceivedMessage
 id webViewChristmas
 layout activity_about_android
 layout activity_first
@@ -50,6 +53,7 @@ string about_android_views
 string accept_t_and_c
 string add_email
 string add_password
+string add_your_message
 string app_name
 string dial
 string email_and_password
@@ -62,6 +66,7 @@ string no
 string open_activity
 string open_second_activity
 string select_a_city
+string send_message
 string text_1
 string text_2
 string text_3

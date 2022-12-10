@@ -9,14 +9,17 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 
 import com.magdamiu.androidfall2022.R;
 
 public class FirstActivity extends AppCompatActivity {
 
+    protected static final String MESSAGE = "message";
     private final String TAG = "FirstActivity";
 
-    private Button buttonOpenSecondActivity, buttonDial, buttonOpenWebsite;
+    private Button buttonOpenSecondActivity, buttonDial, buttonOpenWebsite, buttonSendMessage;
+    private EditText editTextMessage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +31,23 @@ public class FirstActivity extends AppCompatActivity {
         setupButtonOpenSecondActivity();
         setupButtonDial();
         setupButtonWebsite();
+        setupButtonSendMessage();
+    }
+
+    private void setupButtonSendMessage() {
+        editTextMessage = findViewById(R.id.editTextMessage);
+        buttonSendMessage = findViewById(R.id.buttonSendMessage);
+        buttonSendMessage.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                String message = editTextMessage.getText().toString();
+                if (message.length() > 0) {
+                    Intent sendMessage = new Intent(FirstActivity.this, SecondActivity.class);
+                    sendMessage.putExtra(MESSAGE, message);
+                    startActivity(sendMessage);
+                }
+            }
+        });
     }
 
     private void setupButtonWebsite() {

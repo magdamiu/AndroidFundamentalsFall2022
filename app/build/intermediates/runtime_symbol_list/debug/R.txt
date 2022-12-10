@@ -2748,6 +2748,7 @@ int id buttonOpenActivity 0x7f0801ea
 int id buttonOpenSecondActivity 0x7f0801ed
 int id buttonOpenWebsite 0x7f0801f0
 int id buttonPanel 0x7f080063
+int id buttonSendMessage 0x7f0801f1
 int id cache_measures 0x7f080064
 int id callMeasure 0x7f080065
 int id cancel_button 0x7f080066
@@ -2821,6 +2822,7 @@ int id easeOut 0x7f0800a9
 int id east 0x7f0800aa
 int id editTextEmail 0x7f0801eb
 int id editTextEmailAddress 0x7f0800ab
+int id editTextMessage 0x7f0801f2
 int id editTextPassword 0x7f0800ac
 int id edit_query 0x7f0800ad
 int id elastic 0x7f0800ae
@@ -3091,6 +3093,7 @@ int id textView2 0x7f0801ee
 int id textViewDisplayAccount 0x7f0801b5
 int id textViewMovieCategory 0x7f0801b6
 int id textViewMovieTitle 0x7f0801b7
+int id textViewReceivedMessage 0x7f0801f3
 int id text_input_end_icon 0x7f0801b8
 int id text_input_error_icon 0x7f0801b9
 int id text_input_start_icon 0x7f0801ba
@@ -3379,6 +3382,7 @@ int string about_android_views 0x7f0f001c
 int string accept_t_and_c 0x7f0f001d
 int string add_email 0x7f0f001e
 int string add_password 0x7f0f001f
+int string add_your_message 0x7f0f00a7
 int string androidx_startup 0x7f0f0020
 int string app_name 0x7f0f0021
 int string appbar_scrolling_view_behavior 0x7f0f0022
@@ -3504,6 +3508,7 @@ int string path_password_eye_mask_visible 0x7f0f0096
 int string path_password_strike_through 0x7f0f0097
 int string search_menu_title 0x7f0f0098
 int string select_a_city 0x7f0f0099
+int string send_message 0x7f0f00a8
 int string status_bar_notification_info_overflow 0x7f0f009a
 int string text_1 0x7f0f009b
 int string text_2 0x7f0f009c

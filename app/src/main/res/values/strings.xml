@@ -25,4 +25,6 @@
     <string name="open_second_activity">Open Second Activity</string>
     <string name="dial">Dial</string>
     <string name="website">Website</string>
+    <string name="send_message">Send message</string>
+    <string name="add_your_message">Add your message</string>
 </resources>

@@ -2749,6 +2749,7 @@ id buttonOpenActivity
 id buttonOpenSecondActivity
 id buttonOpenWebsite
 id buttonPanel
+id buttonSendMessage
 id cache_measures
 id callMeasure
 id cancel_button
@@ -2822,6 +2823,7 @@ id easeOut
 id east
 id editTextEmail
 id editTextEmailAddress
+id editTextMessage
 id editTextPassword
 id edit_query
 id elastic
@@ -3092,6 +3094,7 @@ id textView2
 id textViewDisplayAccount
 id textViewMovieCategory
 id textViewMovieTitle
+id textViewReceivedMessage
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3380,6 +3383,7 @@ string about_android_views
 string accept_t_and_c
 string add_email
 string add_password
+string add_your_message
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
@@ -3505,6 +3509,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string select_a_city
+string send_message
 string status_bar_notification_info_overflow
 string text_1
 string text_2
