@@ -1,6 +1,8 @@
 package com.magdamiu.androidfall2022.activities;
 
+import static com.magdamiu.androidfall2022.activities.FirstActivity.AGE;
 import static com.magdamiu.androidfall2022.activities.FirstActivity.MESSAGE;
+import static com.magdamiu.androidfall2022.activities.FirstActivity.STATUS;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -30,8 +32,11 @@ public class SecondActivity extends AppCompatActivity {
     private void receiveMessage() {
         Bundle bundle = getIntent().getExtras();
         if (bundle != null) {
+            // warning: to check the unhappy path
             String receivedMessage = bundle.getString(MESSAGE);
-            textViewReceivedMessage.setText(receivedMessage);
+            int receivedAge = bundle.getInt(AGE);
+            boolean receivedStatus = bundle.getBoolean(STATUS);
+            textViewReceivedMessage.setText(String.format("%s %d %s", receivedMessage, receivedAge, receivedStatus));
         }
     }
 

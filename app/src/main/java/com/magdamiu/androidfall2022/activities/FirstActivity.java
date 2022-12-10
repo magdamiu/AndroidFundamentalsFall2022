@@ -16,6 +16,8 @@ import com.magdamiu.androidfall2022.R;
 public class FirstActivity extends AppCompatActivity {
 
     protected static final String MESSAGE = "message";
+    protected static final String AGE = "age";
+    protected static final String STATUS = "status";
     private final String TAG = "FirstActivity";
 
     private Button buttonOpenSecondActivity, buttonDial, buttonOpenWebsite, buttonSendMessage;
@@ -44,6 +46,8 @@ public class FirstActivity extends AppCompatActivity {
                 if (message.length() > 0) {
                     Intent sendMessage = new Intent(FirstActivity.this, SecondActivity.class);
                     sendMessage.putExtra(MESSAGE, message);
+                    sendMessage.putExtra(AGE, 23);
+                    sendMessage.putExtra(STATUS, false);
                     startActivity(sendMessage);
                 }
             }
