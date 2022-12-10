@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-46:12
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-60:12
 MERGED from [com.google.android.material:material:1.7.0] /Users/mmiu/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/mmiu/.gradle/caches/transforms-3/229612c218d9fe79705dc19c7f400585/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/mmiu/.gradle/caches/transforms-3/21755dfb125ba8aca0d81387a0fbc842/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
@@ -44,22 +44,22 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mmiu/.gradle/cache
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/5c31521eb266c26ef211a1f53b56b07e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/66860c319137074465b1f3af9d4ca7e4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mmiu/.gradle/caches/transforms-3/d1b81e9b9294b0bc78ebcbc0700bfe58/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-60:12
 	package
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-46:12
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-60:12
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-46:12
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-60:12
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-46:12
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-60:12
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:11-69
@@ -68,7 +68,7 @@ ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/Androi
 	android:name
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:7:5-44:19
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:7:5-58:19
 MERGED from [com.google.android.material:material:1.7.0] /Users/mmiu/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] /Users/mmiu/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/mmiu/.gradle/caches/transforms-3/229612c218d9fe79705dc19c7f400585/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -103,40 +103,52 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mmiu
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:15:9-53
 	android:dataExtractionRules
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:9:9-65
-activity#com.magdamiu.androidfall2022.MoviesActivity
+activity#com.magdamiu.androidfall2022.activities.SecondActivity
 ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:17:9-23:20
 	android:exported
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:18:13-43
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:18:13-54
 meta-data#android.app.lib_name
 ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:20:13-22:36
 	android:value
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
 	android:name
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:21:17-52
-activity#com.magdamiu.androidfall2022.AboutAndroid
+activity#com.magdamiu.androidfall2022.activities.FirstActivity
 ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:24:9-30:20
 	android:exported
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:25:13-41
-activity#com.magdamiu.androidfall2022.MainActivity
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:31:9-43:20
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:25:13-53
+activity#com.magdamiu.androidfall2022.MoviesActivity
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:31:9-37:20
 	android:exported
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:33:13-36
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:32:13-41
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:32:13-43
+activity#com.magdamiu.androidfall2022.AboutAndroid
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:38:9-44:20
+	android:exported
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:39:13-41
+activity#com.magdamiu.androidfall2022.MainActivity
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:45:9-57:20
+	android:exported
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:46:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:34:13-38:29
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:48:13-52:29
 action#android.intent.action.MAIN
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:35:17-69
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:49:17-69
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:35:25-66
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:49:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:37:17-77
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:51:17-77
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:37:27-74
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:51:27-74
 uses-sdk
 INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml

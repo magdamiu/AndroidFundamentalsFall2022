@@ -12,12 +12,15 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.magdamiu.androidfall2022.activities.FirstActivity;
+
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
 
     private EditText editTextEmail, editTextPassword;
     private TextView textViewDisplayAccount;
     private Button buttonDisplayAboutAndroid;
+    private Button buttonOpenActivity;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.login);
         setupViews();
         displayAboutAndroidOnClick();
+        openActivityOnClick();
     }
 
     private void setupViews() {
@@ -32,12 +36,20 @@ public class MainActivity extends AppCompatActivity {
         editTextPassword = findViewById(R.id.editTextPassword);
         textViewDisplayAccount = findViewById(R.id.textViewDisplayAccount);
         buttonDisplayAboutAndroid = findViewById(R.id.buttonAboutAndroid);
+        buttonOpenActivity = findViewById(R.id.buttonOpenActivity);
     }
 
     private void displayAboutAndroidOnClick() {
         buttonDisplayAboutAndroid.setOnClickListener(view -> {
             Intent moveFromMainToAboutAndroidActivity = new Intent(MainActivity.this, AboutAndroid.class);
             startActivity(moveFromMainToAboutAndroidActivity);
+        });
+    }
+
+    private void openActivityOnClick() {
+        buttonOpenActivity.setOnClickListener(view -> {
+            Intent openNewActivity = new Intent(MainActivity.this, FirstActivity.class);
+            startActivity(openNewActivity);
         });
     }
 

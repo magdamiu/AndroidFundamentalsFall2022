@@ -2741,7 +2741,10 @@ int id bounce 0x7f08005e
 int id bounceBoth 0x7f08005f
 int id bounceEnd 0x7f080060
 int id bounceStart 0x7f080061
+int id button3 0x7f0801e9
 int id buttonAboutAndroid 0x7f080062
+int id buttonOpenActivity 0x7f0801ea
+int id buttonOpenSecondActivity 0x7f0801ed
 int id buttonPanel 0x7f080063
 int id cache_measures 0x7f080064
 int id callMeasure 0x7f080065
@@ -2814,6 +2817,7 @@ int id easeIn 0x7f0800a7
 int id easeInOut 0x7f0800a8
 int id easeOut 0x7f0800a9
 int id east 0x7f0800aa
+int id editTextEmail 0x7f0801eb
 int id editTextEmailAddress 0x7f0800ab
 int id editTextPassword 0x7f0800ac
 int id edit_query 0x7f0800ad
@@ -3080,6 +3084,8 @@ int id textSpacerNoButtons 0x7f0801b1
 int id textSpacerNoTitle 0x7f0801b2
 int id textStart 0x7f0801b3
 int id textTop 0x7f0801b4
+int id textView 0x7f0801ec
+int id textView2 0x7f0801ee
 int id textViewDisplayAccount 0x7f0801b5
 int id textViewMovieCategory 0x7f0801b6
 int id textViewMovieTitle 0x7f0801b7
@@ -3255,8 +3261,10 @@ int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_about_android 0x7f0b001c
+int layout activity_first 0x7f0b006b
 int layout activity_main 0x7f0b001d
 int layout activity_movies 0x7f0b001e
+int layout activity_second 0x7f0b006d
 int layout custom_dialog 0x7f0b001f
 int layout design_bottom_navigation_item 0x7f0b0020
 int layout design_bottom_sheet_dialog 0x7f0b0021
@@ -3274,6 +3282,7 @@ int layout design_navigation_menu_item 0x7f0b002c
 int layout design_text_input_end_icon 0x7f0b002d
 int layout design_text_input_start_icon 0x7f0b002e
 int layout login 0x7f0b002f
+int layout login_constraint_layout 0x7f0b006c
 int layout m3_alert_dialog 0x7f0b0030
 int layout m3_alert_dialog_actions 0x7f0b0031
 int layout m3_alert_dialog_title 0x7f0b0032
@@ -3483,6 +3492,8 @@ int string mtrl_switch_track_path 0x7f0f008f
 int string mtrl_timepicker_cancel 0x7f0f0090
 int string mtrl_timepicker_confirm 0x7f0f0091
 int string no 0x7f0f0092
+int string open_activity 0x7f0f00a1
+int string open_second_activity 0x7f0f00a3
 int string password_toggle_content_description 0x7f0f0093
 int string path_password_eye 0x7f0f0094
 int string path_password_eye_mask_strike_through 0x7f0f0095
@@ -3496,6 +3507,8 @@ int string text_2 0x7f0f009c
 int string text_3 0x7f0f009d
 int string textview2 0x7f0f009e
 int string textview3 0x7f0f009f
+int string this_is_the_first_activity 0x7f0f00a2
+int string this_is_the_second_activity 0x7f0f00a4
 int string yes 0x7f0f00a0
 int style AlertDialog_AppCompat 0x7f100000
 int style AlertDialog_AppCompat_Light 0x7f100001

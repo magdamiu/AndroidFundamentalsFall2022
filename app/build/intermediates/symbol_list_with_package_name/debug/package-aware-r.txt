@@ -2742,7 +2742,10 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button3
 id buttonAboutAndroid
+id buttonOpenActivity
+id buttonOpenSecondActivity
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2815,6 +2818,7 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id editTextEmail
 id editTextEmailAddress
 id editTextPassword
 id edit_query
@@ -3081,6 +3085,8 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textView2
 id textViewDisplayAccount
 id textViewMovieCategory
 id textViewMovieTitle
@@ -3256,8 +3262,10 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_about_android
+layout activity_first
 layout activity_main
 layout activity_movies
+layout activity_second
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3275,6 +3283,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout login
+layout login_constraint_layout
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3484,6 +3493,8 @@ string mtrl_switch_track_path
 string mtrl_timepicker_cancel
 string mtrl_timepicker_confirm
 string no
+string open_activity
+string open_second_activity
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -3497,6 +3508,8 @@ string text_2
 string text_3
 string textview2
 string textview3
+string this_is_the_first_activity
+string this_is_the_second_activity
 string yes
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
