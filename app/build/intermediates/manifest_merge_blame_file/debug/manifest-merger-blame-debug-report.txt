@@ -15,7 +15,7 @@
 11-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:7:5-58:19
+13-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:7:5-62:19
 14        android:allowBackup="true"
 14-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:8:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -50,98 +50,106 @@
 30-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
 31        </activity>
 32        <activity
-32-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:24:9-30:20
+32-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:24:9-34:20
 33            android:name="com.magdamiu.androidfall2022.activities.FirstActivity"
 33-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:25:13-53
-34            android:exported="false" >
+34            android:exported="false"
 34-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:26:13-37
-35            <meta-data
-35-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:20:13-22:36
-36                android:name="android.app.lib_name"
-36-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:21:17-52
-37                android:value="" />
-37-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
-38        </activity>
-39        <activity
-39-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:31:9-37:20
-40            android:name="com.magdamiu.androidfall2022.MoviesActivity"
-40-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:32:13-43
-41            android:exported="false" >
-41-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:33:13-37
-42            <meta-data
-42-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:20:13-22:36
-43                android:name="android.app.lib_name"
-43-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:21:17-52
-44                android:value="" />
-44-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
-45        </activity>
-46        <activity
-46-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:38:9-44:20
-47            android:name="com.magdamiu.androidfall2022.AboutAndroid"
-47-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:39:13-41
-48            android:exported="false" >
-48-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:40:13-37
-49            <meta-data
-49-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:20:13-22:36
-50                android:name="android.app.lib_name"
-50-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:21:17-52
-51                android:value="" />
-51-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
-52        </activity>
-53        <activity
-53-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:45:9-57:20
-54            android:name="com.magdamiu.androidfall2022.MainActivity"
-54-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:46:13-41
-55            android:exported="true" >
-55-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:47:13-36
-56            <intent-filter>
-56-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:48:13-52:29
-57                <action android:name="android.intent.action.MAIN" />
-57-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:49:17-69
-57-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:49:25-66
-58
-59                <category android:name="android.intent.category.LAUNCHER" />
-59-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:51:17-77
-59-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:51:27-74
-60            </intent-filter>
-61
-62            <meta-data
-62-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:20:13-22:36
-63                android:name="android.app.lib_name"
-63-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:21:17-52
-64                android:value="" />
-64-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
-65        </activity>
-66
-67        <provider
-67-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:8:9-11:40
-68            android:name="com.squareup.picasso.PicassoProvider"
-68-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:9:13-64
-69            android:authorities="com.magdamiu.androidfall2022.com.squareup.picasso"
-69-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:10:13-72
-70            android:exported="false" />
-70-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:11:13-37
+35            android:parentActivityName="com.magdamiu.androidfall2022.MainActivity" >
+35-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:27:13-55
+36            <meta-data
+36-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:20:13-22:36
+37                android:name="android.app.lib_name"
+37-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:21:17-52
+38                android:value="" />
+38-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
+39            <meta-data
+39-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:31:13-33:48
+40                android:name="android.support.PARENT_ACTIVITY"
+40-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:32:17-63
+41                android:value=".MainActivity" />
+41-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:33:17-46
+42        </activity>
+43        <activity
+43-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:35:9-41:20
+44            android:name="com.magdamiu.androidfall2022.MoviesActivity"
+44-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:36:13-43
+45            android:exported="false" >
+45-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:37:13-37
+46            <meta-data
+46-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:20:13-22:36
+47                android:name="android.app.lib_name"
+47-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:21:17-52
+48                android:value="" />
+48-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
+49        </activity>
+50        <activity
+50-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:42:9-48:20
+51            android:name="com.magdamiu.androidfall2022.AboutAndroid"
+51-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:43:13-41
+52            android:exported="false" >
+52-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:44:13-37
+53            <meta-data
+53-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:20:13-22:36
+54                android:name="android.app.lib_name"
+54-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:21:17-52
+55                android:value="" />
+55-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
+56        </activity>
+57        <activity
+57-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:49:9-61:20
+58            android:name="com.magdamiu.androidfall2022.MainActivity"
+58-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:50:13-41
+59            android:exported="true" >
+59-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:51:13-36
+60            <intent-filter>
+60-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:52:13-56:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:53:17-69
+61-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:53:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:55:17-77
+63-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:55:27-74
+64            </intent-filter>
+65
+66            <meta-data
+66-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:20:13-22:36
+67                android:name="android.app.lib_name"
+67-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:21:17-52
+68                android:value="" />
+68-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
+69        </activity>
+70
 71        <provider
-71-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-72            android:name="androidx.startup.InitializationProvider"
-72-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-73            android:authorities="com.magdamiu.androidfall2022.androidx-startup"
-73-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
-74            android:exported="false" >
-74-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
-75            <meta-data
-75-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-76                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-76-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-77                android:value="androidx.startup" />
-77-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
-78            <meta-data
-78-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
-79                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-79-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
-80                android:value="androidx.startup" />
-80-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
-81        </provider>
-82    </application>
-83
-84</manifest>
+71-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+72            android:name="com.squareup.picasso.PicassoProvider"
+72-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:9:13-64
+73            android:authorities="com.magdamiu.androidfall2022.com.squareup.picasso"
+73-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:10:13-72
+74            android:exported="false" />
+74-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:11:13-37
+75        <provider
+75-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+76            android:name="androidx.startup.InitializationProvider"
+76-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+77            android:authorities="com.magdamiu.androidfall2022.androidx-startup"
+77-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+78            android:exported="false" >
+78-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+79            <meta-data
+79-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+80-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+81                android:value="androidx.startup" />
+81-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+82            <meta-data
+82-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+83                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+83-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+84                android:value="androidx.startup" />
+84-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+85        </provider>
+86    </application>
+87
+88</manifest>

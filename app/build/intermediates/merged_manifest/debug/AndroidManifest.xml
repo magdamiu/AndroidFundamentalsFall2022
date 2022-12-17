@@ -31,10 +31,14 @@
         </activity>
         <activity
             android:name="com.magdamiu.androidfall2022.activities.FirstActivity"
-            android:exported="false" >
+            android:exported="false"
+            android:parentActivityName="com.magdamiu.androidfall2022.MainActivity" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
         </activity>
         <activity
             android:name="com.magdamiu.androidfall2022.MoviesActivity"
