@@ -23,6 +23,15 @@
         android:testOnly="true"
         android:theme="@style/Theme.AndroidFall2022" >
         <activity
+            android:name="com.magdamiu.androidfall2022.navigation.NavigationActivity"
+            android:exported="false"
+            android:label="@string/title_activity_navigation"
+            android:theme="@style/Theme.AndroidFall2022.NoActionBar" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="com.magdamiu.androidfall2022.activities.SecondActivity"
             android:exported="false" >
             <meta-data
@@ -83,6 +92,13 @@
                 android:name="androidx.lifecycle.ProcessLifecycleInitializer"
                 android:value="androidx.startup" />
         </provider>
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
     </application>
 
 </manifest>

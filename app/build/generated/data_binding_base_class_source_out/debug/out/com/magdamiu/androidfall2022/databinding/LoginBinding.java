@@ -28,6 +28,9 @@ public final class LoginBinding implements ViewBinding {
   public final Button buttonOpenActivity;
 
   @NonNull
+  public final Button buttonOpenNavigationActivity;
+
+  @NonNull
   public final EditText editTextEmailAddress;
 
   @NonNull
@@ -37,11 +40,13 @@ public final class LoginBinding implements ViewBinding {
   public final TextView textViewDisplayAccount;
 
   private LoginBinding(@NonNull LinearLayout rootView, @NonNull Button buttonAboutAndroid,
-      @NonNull Button buttonOpenActivity, @NonNull EditText editTextEmailAddress,
-      @NonNull EditText editTextPassword, @NonNull TextView textViewDisplayAccount) {
+      @NonNull Button buttonOpenActivity, @NonNull Button buttonOpenNavigationActivity,
+      @NonNull EditText editTextEmailAddress, @NonNull EditText editTextPassword,
+      @NonNull TextView textViewDisplayAccount) {
     this.rootView = rootView;
     this.buttonAboutAndroid = buttonAboutAndroid;
     this.buttonOpenActivity = buttonOpenActivity;
+    this.buttonOpenNavigationActivity = buttonOpenNavigationActivity;
     this.editTextEmailAddress = editTextEmailAddress;
     this.editTextPassword = editTextPassword;
     this.textViewDisplayAccount = textViewDisplayAccount;
@@ -86,6 +91,12 @@ public final class LoginBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.buttonOpenNavigationActivity;
+      Button buttonOpenNavigationActivity = ViewBindings.findChildViewById(rootView, id);
+      if (buttonOpenNavigationActivity == null) {
+        break missingId;
+      }
+
       id = R.id.editTextEmailAddress;
       EditText editTextEmailAddress = ViewBindings.findChildViewById(rootView, id);
       if (editTextEmailAddress == null) {
@@ -105,7 +116,8 @@ public final class LoginBinding implements ViewBinding {
       }
 
       return new LoginBinding((LinearLayout) rootView, buttonAboutAndroid, buttonOpenActivity,
-          editTextEmailAddress, editTextPassword, textViewDisplayAccount);
+          buttonOpenNavigationActivity, editTextEmailAddress, editTextPassword,
+          textViewDisplayAccount);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

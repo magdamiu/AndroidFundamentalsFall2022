@@ -1,118 +1,170 @@
 [
     {
-        "merged": "com.magdamiu.androidfall2022.app-merged_res-29:/layout_activity_second.xml.flat",
-        "source": "com.magdamiu.androidfall2022.app-main-31:/layout/activity_second.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/xml_backup_rules.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/xml/backup_rules.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/drawable_android_landscape.jpeg.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/drawable/android_landscape.jpeg"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_nav_header_navigation.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/nav_header_navigation.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/drawable/ic_launcher_background.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/drawable_android_landscape.jpeg.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/drawable/android_landscape.jpeg"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_activity_second.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_second.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/layout_activity_about_android.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/activity_about_android.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/drawable/ic_menu_gallery.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_content_navigation.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/content_navigation.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/drawable_movie.png.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/drawable/movie.png"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_app_bar_navigation.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/app_bar_navigation.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-pngs-38:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/layout_fragment_blank.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/fragment_blank.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/drawable_movie.png.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/drawable/movie.png"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/layout_login_constraint_layout.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/login_constraint_layout.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/navigation_mobile_navigation.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/navigation/mobile_navigation.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/drawable/ic_menu_camera.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/drawable/ic_menu_slideshow.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/layout_activity_first.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/activity_first.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_login.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/login.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_fragment_gallery.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/fragment_gallery.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/drawable_error.png.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/drawable/error.png"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_fragment_home.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/xml_backup_rules.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/xml/backup_rules.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/xml/data_extraction_rules.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_fragment_blank.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/fragment_blank.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/layout_login.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/login.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_activity_movies.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_movies.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/menu_navigation.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/menu/navigation.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/layout_activity_second.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/activity_second.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_activity_navigation.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_navigation.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/layout_activity_main.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/activity_main.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_activity_first.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_first.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/layout_movie_item.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/movie_item.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_login_constraint_layout.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/login_constraint_layout.xml"
     },
     {
-        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-29:/layout_activity_movies.xml.flat",
-        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/activity_movies.xml"
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_activity_main.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/menu_activity_main_drawer.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_activity_about_android.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_about_android.xml"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/drawable_error.png.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/drawable/error.png"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_movie_item.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/movie_item.xml"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_fragment_slideshow.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/drawable_side_nav_bar.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
     }
 ]

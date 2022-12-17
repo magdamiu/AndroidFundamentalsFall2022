@@ -57,9 +57,14 @@
         android:text="@string/about_android_views" />
 
     <Button
+        android:id="@+id/buttonOpenActivity"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/open_activity"
-        android:id="@+id/buttonOpenActivity"/>
+        android:text="@string/open_activity" />
 
+    <Button
+        android:id="@+id/buttonOpenNavigationActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/open_navigation_activity" />
 </LinearLayout>
