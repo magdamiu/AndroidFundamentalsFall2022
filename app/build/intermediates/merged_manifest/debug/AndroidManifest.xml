@@ -65,6 +65,10 @@
         </activity>
 
         <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.magdamiu.androidfall2022.com.squareup.picasso"
+            android:exported="false" />
+        <provider
             android:name="androidx.startup.InitializationProvider"
             android:authorities="com.magdamiu.androidfall2022.androidx-startup"
             android:exported="false" >

@@ -7,12 +7,18 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="big_space">120dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
     <dimen name="small_space">8dp</dimen>
     <dimen name="very_big_space">180dp</dimen>
     <string name="about_android">About Android</string>
     <string name="about_android_views">About Android Views</string>
     <string name="accept_t_and_c">Accept T and C</string>
+    <string name="action_settings">Settings</string>
     <string name="add_email">Please add your email address</string>
     <string name="add_password">Please add your password</string>
     <string name="add_your_message">Add your message</string>
@@ -24,6 +30,14 @@
     <string name="hint_email">Please add your email address</string>
     <string name="hint_password">Please add your password</string>
     <string name="login">Login</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="no">No</string>
     <string name="open_activity">Open activity</string>
     <string name="open_second_activity">Open Second Activity</string>
@@ -36,6 +50,7 @@
     <string name="textview3">TextView3</string>
     <string name="this_is_the_first_activity">This is the First Activity</string>
     <string name="this_is_the_second_activity">This is the Second Activity</string>
+    <string name="title_activity_nav">NavActivity</string>
     <string name="website">Website</string>
     <string name="yes">Yes</string>
     <style name="Theme.AndroidFall2022" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
@@ -51,4 +66,10 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         
     </style>
+    <style name="Theme.AndroidFall2022.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.AndroidFall2022.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.AndroidFall2022.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 </resources>

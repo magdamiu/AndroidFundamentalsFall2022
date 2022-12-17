@@ -39,17 +39,14 @@ public class FirstActivity extends AppCompatActivity {
     private void setupButtonSendMessage() {
         editTextMessage = findViewById(R.id.editTextMessage);
         buttonSendMessage = findViewById(R.id.buttonSendMessage);
-        buttonSendMessage.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                String message = editTextMessage.getText().toString();
-                if (message.length() > 0) {
-                    Intent sendMessage = new Intent(FirstActivity.this, SecondActivity.class);
-                    sendMessage.putExtra(MESSAGE, message);
-                    sendMessage.putExtra(AGE, 23);
-                    sendMessage.putExtra(STATUS, false);
-                    startActivity(sendMessage);
-                }
+        buttonSendMessage.setOnClickListener(view -> {
+            String message = editTextMessage.getText().toString();
+            if (message.length() > 0) {
+                Intent sendMessage = new Intent(FirstActivity.this, SecondActivity.class);
+                sendMessage.putExtra(MESSAGE, message);
+                sendMessage.putExtra(AGE, 23);
+                sendMessage.putExtra(STATUS, false);
+                startActivity(sendMessage);
             }
         });
     }
