@@ -27,6 +27,7 @@
     <string name="email_and_password">Email and password</string>
     <string name="email_not_valid">Email address is not valid</string>
     <string name="enable_back_up">Enable back-up</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hint_email">Please add your email address</string>
     <string name="hint_password">Please add your password</string>
     <string name="login">Login</string>

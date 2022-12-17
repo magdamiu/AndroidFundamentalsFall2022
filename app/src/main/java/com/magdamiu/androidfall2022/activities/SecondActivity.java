@@ -5,6 +5,7 @@ import static com.magdamiu.androidfall2022.activities.FirstActivity.MESSAGE;
 import static com.magdamiu.androidfall2022.activities.FirstActivity.STATUS;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.FragmentTransaction;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -27,6 +28,15 @@ public class SecondActivity extends AppCompatActivity {
 
         textViewReceivedMessage = findViewById(R.id.textViewReceivedMessage);
         receiveMessage();
+
+        insertBlankFragment();
+    }
+
+    // add a fragment in the activity in a dynamic way
+    private void insertBlankFragment() {
+        FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
+        transaction.replace(R.id.frameLayoutPlaceholder, new BlankFragment());
+        transaction.commit();
     }
 
     private void receiveMessage() {

@@ -1,34 +1,42 @@
 [
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/login_constraint_layout.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-31:/layout/login_constraint_layout.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/fragment_blank.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/fragment_blank.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/activity_main.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-31:/layout/activity_main.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/activity_movies.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/activity_movies.xml"
+    },
+    {
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/activity_main.xml"
     },
     {
         "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/activity_second.xml",
         "source": "com.magdamiu.androidfall2022.app-main-31:/layout/activity_second.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/movie_item.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-31:/layout/movie_item.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/activity_second.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/activity_second.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/login.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-31:/layout/login.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/activity_first.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/activity_first.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/activity_movies.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-31:/layout/activity_movies.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/movie_item.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/movie_item.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/activity_about_android.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-31:/layout/activity_about_android.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/login.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/login.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/activity_first.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-31:/layout/activity_first.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/login_constraint_layout.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/login_constraint_layout.xml"
+    },
+    {
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-28:/layout/activity_about_android.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-31:/layout/activity_about_android.xml"
     }
 ]

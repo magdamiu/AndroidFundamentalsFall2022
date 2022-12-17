@@ -31,6 +31,8 @@ id editTextEmail
 id editTextEmailAddress
 id editTextMessage
 id editTextPassword
+id fragmentBlank
+id frameLayoutPlaceholder
 id imageViewPoster
 id progressBarAboutAndroid
 id ratingBarAndroid
@@ -49,6 +51,7 @@ layout activity_first
 layout activity_main
 layout activity_movies
 layout activity_second
+layout fragment_blank
 layout login
 layout login_constraint_layout
 layout movie_item
@@ -66,6 +69,7 @@ string dial
 string email_and_password
 string email_not_valid
 string enable_back_up
+string hello_blank_fragment
 string hint_email
 string hint_password
 string login

@@ -4,10 +4,11 @@ package com.magdamiu.androidfall2022.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.FrameLayout;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.magdamiu.androidfall2022.R;
@@ -17,7 +18,10 @@ import java.lang.String;
 
 public final class ActivitySecondBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final LinearLayout rootView;
+
+  @NonNull
+  public final FrameLayout frameLayoutPlaceholder;
 
   @NonNull
   public final TextView textView2;
@@ -25,16 +29,18 @@ public final class ActivitySecondBinding implements ViewBinding {
   @NonNull
   public final TextView textViewReceivedMessage;
 
-  private ActivitySecondBinding(@NonNull ConstraintLayout rootView, @NonNull TextView textView2,
+  private ActivitySecondBinding(@NonNull LinearLayout rootView,
+      @NonNull FrameLayout frameLayoutPlaceholder, @NonNull TextView textView2,
       @NonNull TextView textViewReceivedMessage) {
     this.rootView = rootView;
+    this.frameLayoutPlaceholder = frameLayoutPlaceholder;
     this.textView2 = textView2;
     this.textViewReceivedMessage = textViewReceivedMessage;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -59,6 +65,12 @@ public final class ActivitySecondBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.frameLayoutPlaceholder;
+      FrameLayout frameLayoutPlaceholder = ViewBindings.findChildViewById(rootView, id);
+      if (frameLayoutPlaceholder == null) {
+        break missingId;
+      }
+
       id = R.id.textView2;
       TextView textView2 = ViewBindings.findChildViewById(rootView, id);
       if (textView2 == null) {
@@ -71,7 +83,7 @@ public final class ActivitySecondBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivitySecondBinding((ConstraintLayout) rootView, textView2,
+      return new ActivitySecondBinding((LinearLayout) rootView, frameLayoutPlaceholder, textView2,
           textViewReceivedMessage);
     }
     String missingId = rootView.getResources().getResourceName(id);
