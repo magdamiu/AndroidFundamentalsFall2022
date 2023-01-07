@@ -151,48 +151,57 @@
 84-->/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
 85        </activity>
 86
-87        <provider
-87-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:8:9-11:40
-88            android:name="com.squareup.picasso.PicassoProvider"
-88-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:9:13-64
-89            android:authorities="com.magdamiu.androidfall2022.com.squareup.picasso"
-89-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:10:13-72
+87        <service
+87-->[androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:25:9-28:40
+88            android:name="androidx.room.MultiInstanceInvalidationService"
+88-->[androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:26:13-74
+89            android:directBootAware="true"
+89-->[androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:27:13-43
 90            android:exported="false" />
-90-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:11:13-37
-91        <provider
-91-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-92            android:name="androidx.startup.InitializationProvider"
-92-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-93            android:authorities="com.magdamiu.androidfall2022.androidx-startup"
-93-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
-94            android:exported="false" >
-94-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
-95            <meta-data
-95-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-96                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-96-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-97                android:value="androidx.startup" />
-97-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
-98            <meta-data
-98-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
-99                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-99-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
-100                android:value="androidx.startup" />
-100-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
-101        </provider>
-102
-103        <uses-library
-103-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
-104            android:name="androidx.window.extensions"
-104-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
-105            android:required="false" />
-105-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
-106        <uses-library
-106-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
-107            android:name="androidx.window.sidecar"
-107-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
-108            android:required="false" />
-108-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
-109    </application>
-110
-111</manifest>
+90-->[androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:28:13-37
+91
+92        <provider
+92-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+93            android:name="com.squareup.picasso.PicassoProvider"
+93-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:9:13-64
+94            android:authorities="com.magdamiu.androidfall2022.com.squareup.picasso"
+94-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:10:13-72
+95            android:exported="false" />
+95-->[com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:11:13-37
+96        <provider
+96-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+97            android:name="androidx.startup.InitializationProvider"
+97-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+98            android:authorities="com.magdamiu.androidfall2022.androidx-startup"
+98-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+99            android:exported="false" >
+99-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+100            <meta-data
+100-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+101                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+101-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+102                android:value="androidx.startup" />
+102-->[androidx.emoji2:emoji2:1.2.0] /Users/mmiu/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+103            <meta-data
+103-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+104                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+104-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+105                android:value="androidx.startup" />
+105-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mmiu/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+106        </provider>
+107
+108        <uses-library
+108-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+109            android:name="androidx.window.extensions"
+109-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+110            android:required="false" />
+110-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+111        <uses-library
+111-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+112            android:name="androidx.window.sidecar"
+112-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+113            android:required="false" />
+113-->[androidx.window:window:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+114    </application>
+115
+116</manifest>

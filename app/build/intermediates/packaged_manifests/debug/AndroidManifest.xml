@@ -84,6 +84,11 @@
                 android:value="" />
         </activity>
 
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+
         <provider
             android:name="com.squareup.picasso.PicassoProvider"
             android:authorities="com.magdamiu.androidfall2022.com.squareup.picasso"

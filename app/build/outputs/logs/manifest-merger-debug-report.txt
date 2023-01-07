@@ -5,6 +5,7 @@ INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/And
 INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
 INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
 MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/mmiu/.gradle/caches/transforms-3/98f2e3f01cb1b33b1c6ac055c4816f75/transformed/viewbinding-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/mmiu/.gradle/caches/transforms-3/88442b52181f3fa4317809c14ce9014b/transformed/navigation-ui-2.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.7.0] /Users/mmiu/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/mmiu/.gradle/caches/transforms-3/229612c218d9fe79705dc19c7f400585/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
@@ -18,6 +19,8 @@ MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/mmiu/.gradle/c
 MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/mmiu/.gradle/caches/transforms-3/04ad397fa1786aeb6ab83bd92652703d/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/mmiu/.gradle/caches/transforms-3/798d6bf18bc344b9eb3d9cea59fc9dd1/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/mmiu/.gradle/caches/transforms-3/962590747e80eb0837aa8e34fbb6ec57/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/mmiu/.gradle/caches/transforms-3/dfb6cd2c8731c560299199337247cee1/transformed/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/mmiu/.gradle/caches/transforms-3/962daa9e6f52135881c04020200ed0c0/transformed/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/b975d4bc4d6d45f491a86fff0fa3caaf/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.5.4] /Users/mmiu/.gradle/caches/transforms-3/7fb7a9d9719644aa92307e4a48cf7b3d/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.5.1] /Users/mmiu/.gradle/caches/transforms-3/cecf163e7b650d508befd9c3fda66816/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
@@ -85,6 +88,8 @@ ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/Androi
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:5:22-64
 application
 ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:7:5-78:19
+MERGED from [androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:24:5-29:19
 MERGED from [com.google.android.material:material:1.7.0] /Users/mmiu/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] /Users/mmiu/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/mmiu/.gradle/caches/transforms-3/229612c218d9fe79705dc19c7f400585/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -199,6 +204,8 @@ INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/And
 INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/mmiu/.gradle/caches/transforms-3/98f2e3f01cb1b33b1c6ac055c4816f75/transformed/viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/mmiu/.gradle/caches/transforms-3/98f2e3f01cb1b33b1c6ac055c4816f75/transformed/viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/mmiu/.gradle/caches/transforms-3/88442b52181f3fa4317809c14ce9014b/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/mmiu/.gradle/caches/transforms-3/88442b52181f3fa4317809c14ce9014b/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.7.0] /Users/mmiu/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
@@ -225,6 +232,10 @@ MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/mmiu/.gradle/ca
 MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/mmiu/.gradle/caches/transforms-3/798d6bf18bc344b9eb3d9cea59fc9dd1/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/mmiu/.gradle/caches/transforms-3/962590747e80eb0837aa8e34fbb6ec57/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/mmiu/.gradle/caches/transforms-3/962590747e80eb0837aa8e34fbb6ec57/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/mmiu/.gradle/caches/transforms-3/dfb6cd2c8731c560299199337247cee1/transformed/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/mmiu/.gradle/caches/transforms-3/dfb6cd2c8731c560299199337247cee1/transformed/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/mmiu/.gradle/caches/transforms-3/962daa9e6f52135881c04020200ed0c0/transformed/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/mmiu/.gradle/caches/transforms-3/962daa9e6f52135881c04020200ed0c0/transformed/sqlite-2.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/b975d4bc4d6d45f491a86fff0fa3caaf/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/b975d4bc4d6d45f491a86fff0fa3caaf/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.5.4] /Users/mmiu/.gradle/caches/transforms-3/7fb7a9d9719644aa92307e4a48cf7b3d/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
@@ -319,6 +330,14 @@ INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/And
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.6] /Users/mmiu/.gradle/caches/transforms-3/eceeafbf67accd82f9b6c59a9b65931d/transformed/room-runtime-2.2.6/AndroidManifest.xml:26:13-74
 provider#com.squareup.picasso.PicassoProvider
 ADDED from [com.squareup.picasso:picasso:2.71828] /Users/mmiu/.gradle/caches/transforms-3/9cdaa4058fdfd0b75a13520db891b7b0/transformed/picasso-2.71828/AndroidManifest.xml:8:9-11:40
 	android:authorities

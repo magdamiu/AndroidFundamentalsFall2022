@@ -88,8 +88,8 @@
         "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/drawable/error.png"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-merged_res-43:/layout_login.xml.flat",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/login.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-43:/layout_activity_storage.xml.flat",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/activity_storage.xml"
     },
     {
         "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-merged_res-43:/layout_activity_second.xml.flat",

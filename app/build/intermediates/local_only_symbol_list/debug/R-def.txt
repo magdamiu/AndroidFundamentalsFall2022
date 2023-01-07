@@ -29,6 +29,7 @@ id app_bar_navigation
 id button3
 id buttonAboutAndroid
 id buttonDial
+id buttonInsertWord
 id buttonOpenActivity
 id buttonOpenNavigationActivity
 id buttonOpenSecondActivity
