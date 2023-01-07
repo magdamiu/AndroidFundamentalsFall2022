@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-73:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-73:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-73:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-73:12
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
 MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/mmiu/.gradle/caches/transforms-3/98f2e3f01cb1b33b1c6ac055c4816f75/transformed/viewbinding-7.3.1/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/mmiu/.gradle/caches/transforms-3/88442b52181f3fa4317809c14ce9014b/transformed/navigation-ui-2.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.7.0] /Users/mmiu/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
@@ -60,22 +60,22 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/mmiu/.gradle/caches/transforms-3/66860c319137074465b1f3af9d4ca7e4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mmiu/.gradle/caches/transforms-3/d1b81e9b9294b0bc78ebcbc0700bfe58/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:exifinterface:27.1.0] /Users/mmiu/.gradle/caches/transforms-3/1d49097cb583c3ea684d5bb3c628f043/transformed/exifinterface-27.1.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-73:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-73:12
-INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
 	package
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-73:12
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-73:12
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-73:12
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:1-80:12
 		INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:2:11-69
@@ -84,7 +84,7 @@ ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/Androi
 	android:name
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:7:5-71:19
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:7:5-78:19
 MERGED from [com.google.android.material:material:1.7.0] /Users/mmiu/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] /Users/mmiu/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/mmiu/.gradle/caches/transforms-3/229612c218d9fe79705dc19c7f400585/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -123,70 +123,76 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mmiu
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:15:9-53
 	android:dataExtractionRules
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:9:9-65
-activity#com.magdamiu.androidfall2022.navigation.NavigationActivity
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:17:9-25:20
-	android:label
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:20:13-62
+activity#com.magdamiu.androidfall2022.storage.StorageActivity
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:17:9-23:20
 	android:exported
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:19:13-37
-	android:theme
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:21:13-69
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:18:13-58
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:18:13-52
 meta-data#android.app.lib_name
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:13-24:36
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:20:13-22:36
 	android:value
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:24:17-33
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:22:17-33
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:23:17-52
-activity#com.magdamiu.androidfall2022.activities.SecondActivity
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:26:9-32:20
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:21:17-52
+activity#com.magdamiu.androidfall2022.navigation.NavigationActivity
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:27:13-62
 	android:exported
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:28:13-37
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:28:13-69
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:27:13-54
-activity#com.magdamiu.androidfall2022.activities.FirstActivity
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:33:9-43:20
-	android:parentActivityName
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:36:13-55
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:25:13-58
+activity#com.magdamiu.androidfall2022.activities.SecondActivity
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:33:9-39:20
 	android:exported
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:34:13-53
-meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:40:13-42:49
-	android:value
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:42:17-46
-	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:41:17-63
-activity#com.magdamiu.androidfall2022.MoviesActivity
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:44:9-50:20
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:34:13-54
+activity#com.magdamiu.androidfall2022.activities.FirstActivity
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:40:9-50:20
+	android:parentActivityName
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:43:13-55
 	android:exported
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:46:13-37
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:45:13-43
-activity#com.magdamiu.androidfall2022.AboutAndroid
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:41:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:47:13-49:49
+	android:value
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:49:17-46
+	android:name
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:48:17-63
+activity#com.magdamiu.androidfall2022.MoviesActivity
 ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:51:9-57:20
 	android:exported
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:53:13-37
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:52:13-41
-activity#com.magdamiu.androidfall2022.MainActivity
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:58:9-70:20
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:52:13-43
+activity#com.magdamiu.androidfall2022.AboutAndroid
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:58:9-64:20
 	android:exported
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:60:13-36
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:60:13-37
 	android:name
 		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:59:13-41
+activity#com.magdamiu.androidfall2022.MainActivity
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:65:9-77:20
+	android:exported
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:67:13-36
+	android:name
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:66:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:61:13-65:29
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:68:13-72:29
 action#android.intent.action.MAIN
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:62:17-69
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:69:17-69
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:62:25-66
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:69:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:64:17-77
+ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:71:17-77
 	android:name
-		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:64:27-74
+		ADDED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml:71:27-74
 uses-sdk
 INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/src/main/AndroidManifest.xml

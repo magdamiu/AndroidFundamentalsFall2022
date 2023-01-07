@@ -2807,6 +2807,7 @@ id buttonDial
 id buttonOpenActivity
 id buttonOpenNavigationActivity
 id buttonOpenSecondActivity
+id buttonOpenStorageActivity
 id buttonOpenWebsite
 id buttonPanel
 id buttonSendMessage
@@ -3072,6 +3073,7 @@ id radio
 id ratingBarAndroid
 id ratio
 id rectangles
+id recyclerViewGithubUsers
 id recyclerViewMovies
 id reverseSawtooth
 id right
@@ -3174,7 +3176,6 @@ id textViewMovieCategory
 id textViewMovieTitle
 id textViewReceivedMessage
 id text_gallery
-id text_home
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3355,6 +3356,7 @@ layout activity_main
 layout activity_movies
 layout activity_navigation
 layout activity_second
+layout activity_storage
 layout app_bar_navigation
 layout content_navigation
 layout custom_dialog
@@ -3618,6 +3620,7 @@ string search_menu_title
 string select_a_city
 string send_message
 string status_bar_notification_info_overflow
+string storage
 string text_1
 string text_2
 string text_3

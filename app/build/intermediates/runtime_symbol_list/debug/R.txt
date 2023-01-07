@@ -2806,6 +2806,7 @@ int id buttonDial 0x7f080067
 int id buttonOpenActivity 0x7f080068
 int id buttonOpenNavigationActivity 0x7f080069
 int id buttonOpenSecondActivity 0x7f08006a
+int id buttonOpenStorageActivity 0x7f08020f
 int id buttonOpenWebsite 0x7f08006b
 int id buttonPanel 0x7f08006c
 int id buttonSendMessage 0x7f08006d
@@ -3071,6 +3072,7 @@ int id radio 0x7f080170
 int id ratingBarAndroid 0x7f080171
 int id ratio 0x7f080172
 int id rectangles 0x7f080173
+int id recyclerViewGithubUsers 0x7f08020e
 int id recyclerViewMovies 0x7f080174
 int id reverseSawtooth 0x7f080175
 int id right 0x7f080176
@@ -3173,7 +3175,6 @@ int id textViewMovieCategory 0x7f0801d6
 int id textViewMovieTitle 0x7f0801d7
 int id textViewReceivedMessage 0x7f0801d8
 int id text_gallery 0x7f0801d9
-int id text_home 0x7f0801da
 int id text_input_end_icon 0x7f0801db
 int id text_input_error_icon 0x7f0801dc
 int id text_input_start_icon 0x7f0801dd
@@ -3354,6 +3355,7 @@ int layout activity_main 0x7f0b001e
 int layout activity_movies 0x7f0b001f
 int layout activity_navigation 0x7f0b0020
 int layout activity_second 0x7f0b0021
+int layout activity_storage 0x7f0b0076
 int layout app_bar_navigation 0x7f0b0022
 int layout content_navigation 0x7f0b0023
 int layout custom_dialog 0x7f0b0024
@@ -3617,6 +3619,7 @@ int string search_menu_title 0x7f1100a9
 int string select_a_city 0x7f1100aa
 int string send_message 0x7f1100ab
 int string status_bar_notification_info_overflow 0x7f1100ac
+int string storage 0x7f1100b8
 int string text_1 0x7f1100ad
 int string text_2 0x7f1100ae
 int string text_3 0x7f1100af

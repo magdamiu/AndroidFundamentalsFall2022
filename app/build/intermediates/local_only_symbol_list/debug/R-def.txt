@@ -32,6 +32,7 @@ id buttonDial
 id buttonOpenActivity
 id buttonOpenNavigationActivity
 id buttonOpenSecondActivity
+id buttonOpenStorageActivity
 id buttonOpenWebsite
 id buttonSendMessage
 id drawer_layout
@@ -52,6 +53,7 @@ id nav_slideshow
 id nav_view
 id progressBarAboutAndroid
 id ratingBarAndroid
+id recyclerViewGithubUsers
 id recyclerViewMovies
 id spinnerCitiesList
 id switchBackUp
@@ -62,7 +64,6 @@ id textViewMovieCategory
 id textViewMovieTitle
 id textViewReceivedMessage
 id text_gallery
-id text_home
 id text_slideshow
 id toolbar
 id webViewChristmas
@@ -72,6 +73,7 @@ layout activity_main
 layout activity_movies
 layout activity_navigation
 layout activity_second
+layout activity_storage
 layout app_bar_navigation
 layout content_navigation
 layout fragment_blank
@@ -117,6 +119,7 @@ string open_navigation_activity
 string open_second_activity
 string select_a_city
 string send_message
+string storage
 string text_1
 string text_2
 string text_3

@@ -1,66 +1,74 @@
 [
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/content_navigation.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/content_navigation.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/login_constraint_layout.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/login_constraint_layout.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_navigation.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_navigation.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/fragment_gallery.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/fragment_gallery.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/movie_item.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/movie_item.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_movies.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/activity_movies.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/fragment_home.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/fragment_home.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/nav_header_navigation.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/nav_header_navigation.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/fragment_slideshow.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/fragment_slideshow.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/fragment_home.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/fragment_home.xml"
     },
     {
         "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/login.xml",
         "source": "com.magdamiu.androidfall2022.app-main-45:/layout/login.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_first.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_first.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/activity_main.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/fragment_blank.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/fragment_blank.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/login.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/login.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_about_android.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_about_android.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/app_bar_navigation.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/app_bar_navigation.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_main.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_main.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/fragment_blank.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/fragment_blank.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_movies.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_movies.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_first.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/activity_first.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_second.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_second.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_navigation.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/activity_navigation.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/login_constraint_layout.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/login_constraint_layout.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/content_navigation.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/content_navigation.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/fragment_gallery.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/fragment_gallery.xml"
+        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_storage.xml",
+        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/activity_storage.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/app_bar_navigation.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/app_bar_navigation.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/movie_item.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/movie_item.xml"
     },
     {
-        "merged": "com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/nav_header_navigation.xml",
-        "source": "com.magdamiu.androidfall2022.app-main-45:/layout/nav_header_navigation.xml"
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_about_android.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/activity_about_android.xml"
+    },
+    {
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/fragment_slideshow.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-mergeDebugResources-42:/layout/activity_second.xml",
+        "source": "/Users/mmiu/.gradle/daemon/7.4/com.magdamiu.androidfall2022.app-main-45:/layout/activity_second.xml"
     }
 ]

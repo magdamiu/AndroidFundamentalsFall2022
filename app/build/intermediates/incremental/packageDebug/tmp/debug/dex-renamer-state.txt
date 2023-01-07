@@ -1,7 +1,8 @@
-#Sat Dec 17 14:13:39 EET 2022
+#Sat Jan 07 10:20:53 EET 2023
 path.4=9/classes.dex
 path.3=5/classes.dex
 path.2=3/classes.dex
+renamed.9=classes10.dex
 path.1=0/classes.dex
 renamed.8=classes9.dex
 path.8=13/classes.dex
@@ -18,6 +19,8 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
+base.9=/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+path.9=12/classes.dex
 renamed.7=classes8.dex
 base.8=/Users/mmiu/AndroidStudioProjects/AndroidFall2022/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
 renamed.6=classes7.dex
