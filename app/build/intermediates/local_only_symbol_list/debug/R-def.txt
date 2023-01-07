@@ -22,7 +22,9 @@ drawable ic_launcher_foreground
 drawable ic_menu_camera
 drawable ic_menu_gallery
 drawable ic_menu_slideshow
+drawable invision
 drawable movie
+drawable poster_sparkling
 drawable side_nav_bar
 id action_settings
 id app_bar_navigation
@@ -45,6 +47,7 @@ id fab
 id fragmentBlank
 id frameLayoutPlaceholder
 id imageView
+id imageView2
 id imageViewPoster
 id mobile_navigation
 id nav_gallery

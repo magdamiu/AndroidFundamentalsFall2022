@@ -2627,6 +2627,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable invision
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2696,6 +2697,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable poster_sparkling
 drawable side_nav_bar
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -2940,6 +2942,7 @@ id ignore
 id ignoreRequest
 id image
 id imageView
+id imageView2
 id imageViewPoster
 id immediateStop
 id included
